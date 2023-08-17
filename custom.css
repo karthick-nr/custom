@@ -3,7 +3,3 @@
     height: calc(100% - 70px);
     background-color: black;
 }
-
-div#bee-plugin-container__bee-plugin-loader {
-    background-color: transparent !important;
-}
