@@ -1,0 +1,8 @@
+div.sidebar__component.widget-bar.widget-bar--cssidebar--collapsible.widget-bar--left {
+    top: 70px;
+    height: calc(100% - 70px);
+}
+
+div#bee-plugin-container__bee-plugin-loader {
+    background-color: transparent !important;
+}
